@@ -2,11 +2,11 @@
 
 # 👋 Bem-vindo(a) ao meu GitHub!
 
-### Deivid Rodrigo | Desenvolvimento Web • Tecnologia • Projetos Digitais
+**Deivid Rodrigo • Desenvolvimento Web • Tecnologia • Projetos Digitais**
 
 *Criando experiências digitais modernas, responsivas e funcionais.*
 
-[![Portfólio](https://img.shields.io/badge/🌐_Meu_Portfólio-2563EB?style=for-the-badge)](https://portfolio-deivid-dev.vercel.app)
+[![Meu Portfólio](https://img.shields.io/badge/MEU_PORTFÓLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-deivid-dev.vercel.app)
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ## 🧠 Sobre mim
 
-- 💻 Desenvolvo **sites institucionais e páginas responsivas** para diferentes negócios.
-- 🎓 Tenho interesse em **Análise e Desenvolvimento de Sistemas**, programação e novas tecnologias.
-- 🚀 Trabalho em projetos com foco em **design, experiência do usuário e presença digital**.
-- 🛠️ Utilizo **GitHub e Vercel** para organizar e publicar meus projetos.
-- 📚 Estou sempre ampliando meus conhecimentos em desenvolvimento web.
+- 💻 Desenvolvo sites institucionais e páginas responsivas para diferentes negócios.
+- 🎓 Tenho interesse em Análise e Desenvolvimento de Sistemas, programação e novas tecnologias.
+- 🎨 Trabalho em projetos com foco em design, experiência do usuário e presença digital.
+- 🚀 Utilizo GitHub e Vercel para organizar e publicar meus projetos.
+- 📊 Estou ampliando meus conhecimentos em **SQL, bancos de dados e análise de dados**, com interesse em aplicações de logística.
 
 ---
 
@@ -26,29 +26,39 @@
 
 ### 💻 Desenvolvimento web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🧰 Ferramentas e publicação
+### 📚 Linguagens em estudo e aperfeiçoamento
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🧰 Frameworks e ferramentas em estudo
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🛠️ Ferramentas de desenvolvimento e publicação
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Análise de dados e bancos de dados
+
+**Conhecimentos em desenvolvimento:** consultas SQL com `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`, `JOIN`, funções de agregação (`COUNT`, `SUM`, `AVG`), modelagem de tabelas e análise de indicadores.
+
+**Objetivo:** aplicar análise de dados a cenários reais de logística, entregas, estoque, produtividade e faturamento.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Deividbreck&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=deividbreck&show_icons=true&theme=github_dark&hide_border=false)
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Deividbreck&layout=compact&theme=tokyonight&hide_border=false)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deividbreck&layout=compact&theme=github_dark&hide_border=false)
 
 </div>
-
 
 ---
 
@@ -56,31 +66,13 @@
 
 | Projeto | Descrição |
 |---|---|
-| **Meu portfólio** | Apresentação dos meus trabalhos e projetos digitais. |
-| **Sites institucionais** | Páginas profissionais para empresas e prestadores de serviços. |
-| **Interfaces responsivas** | Experiências adaptadas para computadores e celulares. |
-
-<div align="center">
-
-[![Ver meus projetos](https://img.shields.io/badge/VER_MEUS_PROJETOS-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-deivid-dev.vercel.app)
-
-</div>
+| [Meu portfólio](https://portfolio-deivid-dev.vercel.app) | Apresentação dos meus trabalhos e projetos digitais. |
+| Sites institucionais | Páginas profissionais para empresas e prestadores de serviços. |
+| Análise de dados em logística | Projeto de aprendizado com SQL, indicadores e relatórios de uma transportadora fictícia. |
 
 ---
 
 ## 📬 Contato
 
-<div align="center">
-
-[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-deivid-dev.vercel.app)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deividbreck)
-
-</div>
-
----
-
-<div align="center">
-
-*✨ Transformando ideias em projetos digitais.*
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-deividbreck-181717?style=for-the-badge&logo=github)](https://github.com/deividbreck)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-deivid-dev.vercel.app)
